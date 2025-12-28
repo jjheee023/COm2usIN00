@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: New Material
+  m_Name: M_LongLigth01
   m_Shader: {fileID: -6465566751694194690, guid: e9f5eafcce845224a84788cc5a8544aa, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -25,15 +25,15 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _2colorTex:
-        m_Texture: {fileID: 2800000, guid: 77c6df10a6cee0140b5cc191f063303e, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Texture: {fileID: 2800000, guid: afe522c0b1e3616438976f2fd7742b9e, type: 3}
+        m_Scale: {x: 1.43, y: 1}
+        m_Offset: {x: 0.1, y: 0}
     - _AlpNoiseTex:
         m_Texture: {fileID: 2800000, guid: 77c6df10a6cee0140b5cc191f063303e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AlpTex:
-        m_Texture: {fileID: 2800000, guid: f2e390bf61b77524a8c7cc701b58637d, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9b29d5738f6d820449ce65a0ff1319df, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
@@ -65,7 +65,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 35c69802b282d674b87bf8fc8368de7c, type: 3}
+        m_Texture: {fileID: 2800000, guid: fd47c814b6a26b14ca0c2eba2dd65af6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskTex:
@@ -113,6 +113,7 @@ Material:
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
+    - _Cameraoffset: 3
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 2
@@ -129,7 +130,7 @@ Material:
     - _GlossyReflections: 0
     - _MainNoiseInt: 1
     - _MainNoiseTex: 0
-    - _MainPower: 1
+    - _MainPower: 1.3
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
@@ -146,7 +147,7 @@ Material:
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
     m_Colors:
-    - _2color: {r: 1, g: 0, b: 0, a: 1}
+    - _2color: {r: 8, g: 1.7735848, b: 1.7735848, a: 1}
     - _AlpNoiseSpeed: {r: -0.8, g: -0.35, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
