@@ -35,7 +35,7 @@ Material:
     - _AlpTex:
         m_Texture: {fileID: 2800000, guid: 65e54608627fc8e41bd69c8a57c07333, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: -0.1}
+        m_Offset: {x: -0.07, y: -0.1}
     - _BaseMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -57,7 +57,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DissolveTex:
-        m_Texture: {fileID: 2800000, guid: 746c5a742eb044e4cab301fe5aa408c6, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4e2c6ac23f967ed4dae99cf489bd48e0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -78,7 +78,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _NoiseTex:
         m_Texture: {fileID: 2800000, guid: 4347a9d41a2e80a46b26ea13f80875aa, type: 3}
-        m_Scale: {x: 0.2, y: 0.8}
+        m_Scale: {x: 0.2, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
         m_Texture: {fileID: 0}

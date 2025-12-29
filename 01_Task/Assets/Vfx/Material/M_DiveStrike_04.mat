@@ -25,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _2colorTex:
-        m_Texture: {fileID: 2800000, guid: 77c6df10a6cee0140b5cc191f063303e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 47307c579c2e39f4dafc8daa87e78abd, type: 3}
         m_Scale: {x: 0.38, y: 1}
         m_Offset: {x: 0.5, y: 0}
     - _AlpNoiseTex:
@@ -33,9 +33,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AlpTex:
-        m_Texture: {fileID: 2800000, guid: e8c46f620b0e3b149ae24417ed85239e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 34d23e9bfe9648b45b8e3ad93536e222, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Offset: {x: -0.07, y: -0.1}
     - _BaseMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -57,7 +57,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DissolveTex:
-        m_Texture: {fileID: 2800000, guid: fd47c814b6a26b14ca0c2eba2dd65af6, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4e2c6ac23f967ed4dae99cf489bd48e0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -65,11 +65,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: fd47c814b6a26b14ca0c2eba2dd65af6, type: 3}
+        m_Texture: {fileID: 2800000, guid: 408e126ee0b4b6c4bbc6c038c63f1121, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0.23, y: 0}
     - _MaskTex:
-        m_Texture: {fileID: 2800000, guid: fd47c814b6a26b14ca0c2eba2dd65af6, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5ae3f2325fc0fca49846dcc85d878c64, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -121,7 +121,7 @@ Material:
     - _DepthFade: 0
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _DissolveSharpness: 0
+    - _DissolveSharpness: 0.6
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
@@ -130,7 +130,7 @@ Material:
     - _GlossyReflections: 0
     - _MainNoiseInt: 1
     - _MainNoiseTex: 0
-    - _MainPower: 1
+    - _MainPower: 0.84
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
