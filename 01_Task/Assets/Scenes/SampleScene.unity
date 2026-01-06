@@ -21528,8 +21528,8 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 1, g: 0.2216981, b: 0.2216981, a: 1}
-        key1: {r: 1, g: 0.2216981, b: 0.2216981, a: 1}
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 1, b: 1, a: 1}
         key2: {r: 0.22594357, g: 0, b: 0.5345911, a: 1}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -24532,8 +24532,8 @@ ParticleSystem:
     vectorLabel0_0: Dissolve
     vector0_1:
       serializedVersion: 2
-      minMaxState: 1
-      scalar: 180
+      minMaxState: 0
+      scalar: 2000
       minScalar: 0
       maxCurve:
         serializedVersion: 2
